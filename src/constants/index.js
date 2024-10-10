@@ -144,7 +144,12 @@ import {
   ];
   
   const testimonials = [
-    
+    {
+    testimonial: "keep going Zeyad Alofie",
+    name: "Yazedd",
+    designation: "Business Analyst at Intelligent Business",
+    company: "IB Tech"
+    }
   ];
   
   const projects = [
